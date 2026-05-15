@@ -32,3 +32,8 @@ Müşterileriniz sadece tek bir `.exe` dosyasını çalıştırır ve doğrudan 
 
 ---
 *Bu proje, kapalı devre web sistemlerini profesyonel bir masaüstü deneyimiyle sunmak isteyen geliştiriciler için tasarlanmıştır.*
+
+
+<img width="1201" height="800" alt="Screenshot_6" src="https://github.com/user-attachments/assets/5d3f8637-dccb-461a-af55-955f90b0758d" />
+
+<img width="589" height="1421" alt="22" src="https://github.com/user-attachments/assets/7057e712-a938-42be-9e10-6961fd6f7dd4" />
